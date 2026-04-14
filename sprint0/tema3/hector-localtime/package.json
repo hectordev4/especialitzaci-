@@ -1,0 +1,18 @@
+{
+  "name": "hector-localtime",
+  "version": "0.0.2",
+  "description": "A package to view your local time.",
+  "keywords": [
+    "date",
+    "time",
+    "local",
+    "time"
+  ],
+  "license": "MIT",
+  "author": "hector4dev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "time"
+  }
+}
