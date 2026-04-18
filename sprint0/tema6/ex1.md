@@ -47,7 +47,7 @@ Bonus track: Repeteix l'exercici per la següent història d'usuari:
 
 1. Definir Criteris d'Acceptació.
 2. Llista de 3-5 condicions mesurables que la funcionalitat ha de complir.
-3. Descriure dos escenaris d'utilitat amb sintaxi (donat/quan/llavors).
+3. Descriure dos escenaris d'utilitat amb sintaxi (donat/quan/llavors) per a cada condició.
 4. Dividir la història en tasques tècniques específiques.
 5. Crear un tauler Kanban amb les columnes (backlog/to do/doing/test/done)
 6. Afegir les tasques al tauler amb priorització MoSCoW.
@@ -79,3 +79,6 @@ Donat que estic a la pàgina de registre, quan estic creant l'usuari vull saber 
 
 #### Criteri 5
 Donat que estic a la pàgina de registre, quan estic creant 
+
+
+
