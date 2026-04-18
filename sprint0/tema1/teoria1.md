@@ -1,4 +1,4 @@
-# Fonaments del Desenvolupament Web: Arquitectura, Protocols i Estàndards
+# **Fonaments del Desenvolupament Web: Arquitectura, Protocols i Estàndards**
 
 Aquest document detalla el funcionament intern del web modern, des del model client-servidor fins a les pràctiques d'accessibilitat i seguretat necessàries per al 2025.
 
