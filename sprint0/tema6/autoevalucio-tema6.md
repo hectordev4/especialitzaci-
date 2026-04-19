@@ -27,9 +27,3 @@ Aquesta tècnica d'enginyeria, originària de l'Extreme Programming (XP), requer
   * **Driver (Conductor):** Es focalitza en l'escriptura del codi, la sintaxi i la implementació immediata de la tasca.  
   * **Navigator (Navegador):** Observa el treball, revisa la qualitat, proposa millores, preveu errors i manté el focus en l'objectiu general i l'arquitectura de la solució.  
 * **Propòsit tècnic:** El coneixement d'aquesta pràctica implica entendre que el seu objectiu és la millora de la qualitat del codi (reducció de bugs), la compartició del coneixement dins de l'equip i la resolució col·laborativa de problemes complexos que un sol desenvolupador podria trigar més a resoldre.
-
----
-
-**Criteris de validació de l'autoavaluació:**
-
-Per considerar assolits aquests coneixements, cal ser capaç d'explicar la diferència entre una història i una tasca, redactar un escenari Gherkin sense ambigüitats, i descriure com interactuen el Driver i el Navigator per garantir l'excel·lència tècnica.

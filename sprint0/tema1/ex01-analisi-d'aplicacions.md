@@ -1,4 +1,4 @@
-# **Exercici d'Anàlisi d'Aplicacions Web**
+# **Exercici pràctic 1: Anàlisi d'Aplicacions Web**
 
 Aquest document conté l'anàlisi tècnica de 6 aplicacions web seguint els criteris de tipologia, navegació i interacció.
 
