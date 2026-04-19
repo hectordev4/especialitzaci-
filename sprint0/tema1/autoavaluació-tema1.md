@@ -1,4 +1,4 @@
-# **Autoavaluació S0 Tema 1**
+# **Autoavaluació del temari 1 - Sprint0**
 
 ### **1\. Per què és important l'accessibilitat web?**
 
