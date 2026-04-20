@@ -1,4 +1,4 @@
-# **Exercisi Pràctic: Història d'Usuari**
+# **Exercisi pràctic 10: Història d'Usuari**
 
 ## **Funcionalitat Front-End (Registre)**
 
